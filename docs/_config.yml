@@ -1,0 +1,6 @@
+title: "SuperSecretTip - TryHackMe Walkthrough"
+description: "Portfolio documentation of the SuperSecretTip TryHackMe lab."
+theme: jekyll-theme-hacker
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
