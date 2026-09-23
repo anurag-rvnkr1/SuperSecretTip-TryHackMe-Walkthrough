@@ -1,14 +1,6 @@
-title: "TryHackMe CTF"
-description: "Professional CTF documentation."
-
-theme: jekyll-theme-primer
-
+title: "SuperSecretTip - TryHackMe Walkthrough"
+description: "Portfolio documentation of the SuperSecretTip TryHackMe lab."
+theme: jekyll-theme-hacker
+markdown: kramdown
 plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
-
-include:
-  - docs
+  - jekyll-seo-tag
